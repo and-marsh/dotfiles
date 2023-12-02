@@ -83,8 +83,8 @@ export PATH="/Users/and_marsh/.cargo/bin:$PATH"
 
 # default to Java 11
 # java11
-export JAVA_HOME="/opt/homebrew/opt/openjdk@11"
-export PATH="/opt/homebrew/opt/openjdk@11/bin:$PATH"
+export JAVA_HOME="/opt/homebrew/opt/openjdk@17"
+export PATH="/opt/homebrew/opt/openjdk@17/bin:$PATH"
 
 export ANDROID_SDK_ROOT="/Users/and_marsh/Library/Android/sdk"
 export ANDROID_HOME="/Users/and_marsh/Library/Android/sdk"

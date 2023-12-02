@@ -19,3 +19,4 @@ brew "tree"
 brew "xcodes"
 brew "graphviz"
 cask "font-hack-nerd-font"
+cask maccy

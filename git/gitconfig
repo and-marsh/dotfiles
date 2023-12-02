@@ -7,7 +7,7 @@
 	st = status -sb
 	undo = checkout --
 	subupdate = submodule update --init --recursive
-	cpick = cherry-pick
+	cp = cherry-pick
 	branchdate =  ! ~/.git/helpers/git-branchdate-helper
 	co = checkout
 	cm = commit
